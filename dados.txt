@@ -41,3 +41,16 @@ parametro
     "3"
   ]
 }
+====================================
+menssagem
+{   
+	"data":"",
+	"cod_produto":"0001",
+	"carencia":1,
+	"database":	20210505,
+	"vencimento":2105012,
+	"parametros":{
+		"1":{"value":"1"},
+		"2":{"value":"1"}
+	}
+}
